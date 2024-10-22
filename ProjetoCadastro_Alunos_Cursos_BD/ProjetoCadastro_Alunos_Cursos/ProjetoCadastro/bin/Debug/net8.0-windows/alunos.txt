@@ -1,0 +1,3 @@
+BI3017613;06/05/2003;Gustavo Esperança Sanches;Rua Antônia Victória Baptistela;Residêncial Modelo;Birigui;SP;1234567A;
+BI3006611;06/05/2003;Gustavo Esperança Sanches;Rua Aleatória;Bairro Não sei;Birigui;AC;aosdkoapsd;
+a;01/01/0001;a;a;a;a;AC;a;

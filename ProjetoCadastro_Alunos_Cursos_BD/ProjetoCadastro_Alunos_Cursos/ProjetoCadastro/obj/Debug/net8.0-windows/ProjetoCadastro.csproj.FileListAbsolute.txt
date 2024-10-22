@@ -1,0 +1,47 @@
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.exe
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.deps.json
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.runtimeconfig.json
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.dll
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.pdb
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.AssemblyInfo.cs
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.dll
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\refint\ProjetoCadastro.dll
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.pdb
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.genruntimeconfig.cache
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ref\ProjetoCadastro.dll
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.FormPrincipal.resources
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.CopyComplete
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.Properties.Resources.resources
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.FormCadastroAluno.resources
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.FormCadastroCursos.resources
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.exe
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.deps.json
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.runtimeconfig.json
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.dll
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.pdb
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.FormCadastroAluno.resources
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.FormCadastroCursos.resources
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.FormPrincipal.resources
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.Properties.Resources.resources
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.AssemblyInfo.cs
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.CopyComplete
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.dll
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\refint\ProjetoCadastro.dll
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.pdb
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.genruntimeconfig.cache
+C:\Users\gusta\Desktop\ifsp atividades\POE\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ref\ProjetoCadastro.dll
+C:\Users\mathe\Downloads\ProjetoCadastro_Alunos_Cursos_BD\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.dll
+C:\Users\mathe\Downloads\ProjetoCadastro_Alunos_Cursos_BD\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\refint\ProjetoCadastro.dll
+C:\Users\mathe\Downloads\ProjetoCadastro_Alunos_Cursos_BD\ProjetoCadastro_Alunos_Cursos\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.pdb

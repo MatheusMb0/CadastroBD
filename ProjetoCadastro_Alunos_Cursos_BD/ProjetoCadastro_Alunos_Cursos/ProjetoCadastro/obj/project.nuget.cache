@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pZr4K94ns9BtAsvu/DLBPaKK8l6XRWpqRLoFsfY72MqcHLzs1jRETWGC1oSlLuG71O5SJnLpRJPuQKP8xrmGeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\ifsp atividades\\POE\\ProjetoCadastro_Alunos_Cursos\\ProjetoCadastro\\ProjetoCadastro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\realtaiizor\\3.8.0.7\\realtaiizor.3.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

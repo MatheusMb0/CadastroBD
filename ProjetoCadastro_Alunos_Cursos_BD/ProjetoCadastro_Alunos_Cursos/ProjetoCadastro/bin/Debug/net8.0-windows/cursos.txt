@@ -1,0 +1,3 @@
+10;Engenharia de Computação;Superior;10 Semestres;Integral;Informática;
+10;Matemática;Superior;8 Semestres;Noturno;Licenciatura;
+30;Física;Superior;8 Semestres;Noturno;Licenciatura;
